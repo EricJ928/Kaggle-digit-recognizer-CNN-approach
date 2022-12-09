@@ -1,0 +1,3 @@
+# Kaggle competition tutorial - Digit Recongnizer - CNN
+
+Tutorial example of a CNN approach for [Kaggle Prediction Competition - Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/rules). The tutorial shows how to view/clean vision data, prepare train/validation datasets, and build a CNN model, train/val by PyTorch. This simple model achieves an accuracy of 0.98942 on the test set after 20 epochs of training.
